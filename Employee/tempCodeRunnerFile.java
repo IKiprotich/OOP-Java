@@ -1,0 +1,1 @@
+System.out.println(R2.areaofRect(double l, double w));
